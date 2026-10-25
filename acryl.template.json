@@ -1,0 +1,5 @@
+{
+  "name": "hello",
+  "description": "A minimal Acryl app with a server-rendered page, a client component and tests",
+  "plugins": []
+}
